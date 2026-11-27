@@ -1,0 +1,32 @@
+{
+ "title": "Analysis code: deprivation, physical activity and resident inpatient days in Korean districts, 2011-2024",
+ "upload_type": "software",
+ "version": "1.0.0",
+ "license": "MIT",
+ "access_right": "open",
+ "description": "Code-only archive (no data, results or manuscript files) for an ecological spatio-temporal analysis of sex-and-age-standardised resident inpatient days in 229 Korean districts, 2011-2024.",
+ "creators": [
+  {
+   "name": "Kim, Seongdae",
+   "affiliation": "Hongik University",
+   "orcid": "0000-0002-1525-0091"
+  }
+ ],
+ "keywords": [
+  "inpatient care",
+  "deprivation",
+  "physical activity",
+  "spatio-temporal",
+  "small-area",
+  "Korea",
+  "INLA",
+  "BYM2"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://github.com/Seongdae-Kim-Hongik/resident-hospital-days-korea/tree/v1.0.0",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  }
+ ]
+}
